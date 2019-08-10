@@ -1,13 +1,13 @@
 {
-  "name": "Minha Loja",
-  "short_name": "MinhaLoja",
-  "description": "Minha loja demo nota 10",
-  "lang": "pt_br",
-  "primary_color": "#e83e8c",
-  "secondary_color": "#333333",
+  "primary_color": "#ed2a56",
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
-  "icon": "/img/uploads/icon.png",
-  "large_icon": "/img/uploads/large-icon.png",
-  "favicon": "/img/uploads/favicon.png"
+  "logo": "/img/uploads/logo-2.png",
+  "name": "Blow Hair",
+  "short_name": "BlowHair",
+  "lang": "pt_br",
+  "favicon": "/img/uploads/favicon.png",
+  "secondary_color": "#fff",
+  "icon": "/img/uploads/minilogo.png",
+  "description": "Minha loja demo nota 10",
+  "large_icon": "/img/uploads/logo-2.png"
 }
