@@ -1,9 +1,4 @@
 {
-  "marketing_stripe": {
-    "text": "",
-    "call_to_action": "",
-    "call_to_action_link": ""
-  },
   "contacts_stripe": {
     "pages": [],
     "phone_wpp": true,
