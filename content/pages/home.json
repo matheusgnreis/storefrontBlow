@@ -15,10 +15,10 @@
     ]
   },
   "pitbar": {
-    "shipping": true,
-    "installments": true,
-    "exchange": true,
-    "promo": true
+    "shipping": false,
+    "installments": false,
+    "exchange": false,
+    "promo": false
   },
   "showcase": [
     {
